@@ -13,6 +13,5 @@ func main(){
 
 	// These are using the default foreground colors
 	color.Red("We have red")
-	color.Magenta("And many others ..")
 }
 
